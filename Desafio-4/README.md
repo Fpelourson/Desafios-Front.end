@@ -1,4 +1,4 @@
-# Frontend Mentor - Creando diseño Responsivo e implementando metodologia BEM
+# Frontend Mentor - Creating Responsive design and implementing BEM methodology
 
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
