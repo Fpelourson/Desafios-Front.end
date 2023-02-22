@@ -1,4 +1,4 @@
-# Frontend Mentor - Base Apparel coming soon page
+# Frontend Mentor - Creando diseño Responsivo e implementando metodologia BEM
 
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
