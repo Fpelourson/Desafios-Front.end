@@ -277,6 +277,9 @@ header .logo img {
     width: 80%;
     height: 40px;
   }
+  .navigation a{
+        font-size: 0.7rem;
+    }
   .banner {
     padding: 220px 20px 120px;
   }
